@@ -38,7 +38,7 @@ section{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    background-image: linear-gradient(to top,white,grey,black);
+    background-image: linear-gradient(to top,white,grey,#8a2727);
 }
 article{
     grid-area: article;
