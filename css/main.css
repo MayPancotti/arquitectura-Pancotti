@@ -162,7 +162,9 @@ nav a .iconhome:hover{
     
 
 }
-
+section img:hover{
+    transition: all 5s ;
+    transform: rotatey(360deg);
    
 }
 .sobremicolab{
